@@ -1,6 +1,6 @@
 {
   "version": "V1.03",
-  "binUrl": "https://github.com/omseven/emfp03-firmware/blob/main/Fire_Controller_V1.03.bin",
+  "binUrl": "https://raw.githubusercontent.com/omseven/emfp03-firmware/main/Fire_Controller_V1.03.bin",
   "notes": "Added new pump features and stability fixes",
   "notesFa": "افزوده شدن مد کاری جدید و بهبود پایداری سیستم"
 }
