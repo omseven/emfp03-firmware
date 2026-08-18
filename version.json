@@ -1,6 +1,7 @@
 {
   "version": "V1.03",
-  "binUrl": "https://raw.githubusercontent.com/omseven/emfp03-firmware/main/Fire_Controller_V1.03.bin",
-  "notes": "Added new pump features and stability fixes",
-  "notesFa": "افزوده شدن مد کاری جدید و بهبود پایداری سیستم"
+  "binUrl": "https://raw.githubusercontent.com/omseven/emfp03-firmware/main/Fire_Controller.efw",
+  "notes": "Encrypted V1.03 Firmware Release",
+  "notesFa": "نسخه جدید V1.03 با فریم‌ور رمزگذاری‌شده و قابلیت‌های جدید"
 }
+
