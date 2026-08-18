@@ -1,7 +1,7 @@
 {
   "version": "V1.03",
   "binUrl": "https://raw.githubusercontent.com/omseven/emfp03-firmware/main/Fire_Controller.efw",
-  "notes": "Encrypted V1.03 Firmware Release",
-  "notesFa": "نسخه جدید V1.03 با فریم‌ور رمزگذاری‌شده و قابلیت‌های جدید"
+  "notes": "Added custom mobile dropdowns, stepper inputs, system operations, and client preferences",
+  "notesFa": "افزوده شدن منوی کشویی اختصاصی، کنترل عددی لمسی، بخش ریستارت/ریست کارخانه و حفظ تنظیمات کلاینت"
 }
 
